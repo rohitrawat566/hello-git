@@ -1,0 +1,28 @@
+Commands					Description
+ 
+
+
+git config --global user.name "Your username"	It is used to configure the username to be used with the commits.
+
+git config --global use.email "Your emailid"	It is used to configure the email to be used with the commits.
+
+git init					Initialising the tracker in a folder.
+
+git add file name				This will add the file into the tracker to track the changes.
+
+git add .					This will add all the file present in the folder and track them.
+
+git commit -m "your massage"			This will make the version of your changes made in your file
+
+git log						This will display list of your commit history
+
+git status					This will show the tracked file and the untracked file.
+
+git push -u origin master			This will push your master to the github. Master is nothing but the latest commmit.
+
+git remote add origin "Link"			This will add a upload link where all the commit will be upload in github.
+
+git checkout commit-id                  	It is used to switch between different versions.
+
+     
+
